@@ -24,6 +24,8 @@ class Fruit extends SpriteComponent with HasGameRef, CollisionCallbacks {
     debugMode = true;
   }
 
+  //test
+
   @override
   void onCollision(Set<Vector2> intersectionPoints, PositionComponent other) {
     print('on collision has been called!');
