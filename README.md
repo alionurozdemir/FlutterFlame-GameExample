@@ -18,7 +18,7 @@ The game I developed with the Flutter flame package
 ### Clone the repository
 
 ```
-$ git clone [https://github.com/alionurozdemir/charlie_chicken.git]
+$ git clone [https://github.com/alionurozdemir/FlutterFlame-GameExample.git]
 ```
 
 ###### Install the dependencies
